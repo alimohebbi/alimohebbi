@@ -1,4 +1,4 @@
-## Table of Content 👋
+## Table of Content 
 
 I am Ali Mohebbi, passionate about software engineering. This markdown plays role of table of content for my github
 account.
