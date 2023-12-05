@@ -1,4 +1,4 @@
-### Hi there 👋
+## Table of Content 👋
 
 I am Ali Mohebbi, passionate about software engineering. This markdown plays role of table of content for my github
 account.
@@ -52,7 +52,7 @@ Here is list of important repositories categoriesd by topic.
 - [Clearwater](https://github.com/alimohebbi/install-clearwater) (Ansible): Installing Clearwater IP Multimedia
   Subsystem.
 
-<h3 align="left">Languages and Tools used in my GitHub Account:</h3>
+<h3 align="left">Languages and Tools used in my GitHub Account</h3>
 
 <p align="left"> 
       <a href="https://www.java.com" target="_blank">
