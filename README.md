@@ -5,22 +5,22 @@ Here is list of important repositories categoriesd by topic.
 
 ### Backend
 
-- (Note Taking)[https://github.com/alimohebbi/note_taking] (Django): A lightweight REST API backend for a scalable note taking system.
-- (STAR Lab Server)[https://github.com/alimohebbi/starlab-server] (Django): A REST API backend for STAR research group.
+- [Note Taking](https://github.com/alimohebbi/note_taking) (Django): A lightweight REST API backend for a scalable note taking system.
+- [STAR Lab Server](https://github.com/alimohebbi/starlab-server) (Django): A REST API backend for STAR research group.
 
 ### Frontend
-- (STAR Lab UI)[https://github.com/alimohebbi/starlab-ui] (Angular): Fronend for STAR research group.
-- (Portfolio)[] (React): Final project of Advanced React course.
-- (pezzem)[https://github.com/alimohebbi/pezzem_page] (Bootstrap): Academic personal website.
+- [STAR Lab UI](https://github.com/alimohebbi/starlab-ui) (Angular): Fronend for STAR research group.
+- [Portfolio]() (React): Final project of Advanced React course.
+- [pezzem](https://github.com/alimohebbi/pezzem_page) (Bootstrap): Academic personal website.
 
 ### Backend & Frontend
-- (Insight Pro)[https://github.com/alimohebbi/insight_pro] (Django & Django Templates): Extracts insights about a company from their website.
-- (Gym Planner)[https://github.com/alimohebbi/trainig] (Django & Django Templates): A lightweight web application to create training plans.
+- [Insight Pro](https://github.com/alimohebbi/insight_pro) (Django & Django Templates): Extracts insights about a company from their website.
+- [Gym Planner](https://github.com/alimohebbi/trainig) (Django & Django Templates): A lightweight web application to create training plans.
 
 
 ### Machine Learning
 
-- (Insight Pro)[https://github.com/alimohebbi/insight_pro] (NLP & Recommender System): Extracts insights about a company from their website.
+- [Insight Pro](https://github.com/alimohebbi/insight_pro) (NLP & Recommender System): Extracts insights about a company from their website.
 
 
 ### Data Analysis
