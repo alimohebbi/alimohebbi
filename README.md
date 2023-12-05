@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Ali Mohebbi, passionate about software engineering. This markdown plays role of table of content for my github
-account.
+I am Ali Mohebbi, passionate about software engineering. This markdown overviews projects available in my GitHub account
+.
 Here is list of important repositories categoriesd by topic.
 
 ### Backend
@@ -13,7 +13,7 @@ Here is list of important repositories categoriesd by topic.
 ### Frontend
 
 - [STAR Lab UI](https://github.com/alimohebbi/starlab-ui) (Angular): Fronend for STAR research group.
-- [Portfolio]() (React): Final project of Advanced React course.
+- [Portfolio](https://github.com/alimohebbi/portfolio) (React): Final project of Advanced React course.
 
 [//]: # (- [pezzem]&#40;https://github.com/alimohebbi/pezzem_page&#41; &#40;Bootstrap&#41;: Academic personal website.)
 
@@ -45,12 +45,11 @@ Here is list of important repositories categoriesd by topic.
 
 - [ELK Install](https://github.com/alimohebbi/ELK) (Elastic Stack & Docker): Installing monitoring services including:
   Elastic Search, Kibana, LogStash.
-- [STAR Dockers](https://github.com/alimohebbi/star_dockers) (Docker): Setting up container for star lab website
+- [STAR Dockers](https://github.com/alimohebbi/star_dockers) (Docker): Setup up containers for star lab website
   deployment.
 - [Test Reuse Install](https://github.com/alimohebbi/test_reuse_install) (Ansible): Setup a cluster of android emulator
   containers, run experiments and collect data.
-- [Clearwater](https://github.com/alimohebbi/install-clearwater) (Ansible): Installing Clearwater IP Multimedia
-  Subsystem.
+
 
 <h3 align="left">Languages and Tools used in my GitHub Account:</h3>
 
