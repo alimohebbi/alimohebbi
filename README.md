@@ -4,7 +4,6 @@ I am Ali Mohebbi, passionate about software engineering. This page overviews pro
 .
 Here is list of important repositories categoriesd by topic.
 
-
 ### Backend
 
 - [Note Taking](https://github.com/alimohebbi/note_taking) (Django): A scalable REST API backend for a note
@@ -20,10 +19,10 @@ Here is list of important repositories categoriesd by topic.
 - [STAR Lab UI](https://github.com/alimohebbi/starlab-ui) (Angular): Fronend for STAR research group.
 - [Insight Pro](https://github.com/alimohebbi/insight_pro) (Django Templates): Extracts insights about a
   company from their website.
-- [Portfolio](https://github.com/alimohebbi/portfolio) (React): An Advanced React portfolio featuring bio, projects, and a contact form.
+- [Portfolio](https://github.com/alimohebbi/portfolio) (React): An Advanced React portfolio featuring bio, projects, and
+  a contact form.
 - [Gym Planner](https://github.com/alimohebbi/trainig) (Django Templates): A lightweight web application to
   create training plans.
-
 
 [//]: # (- [pezzem]&#40;https://github.com/alimohebbi/pezzem_page&#41; &#40;Bootstrap&#41;: Academic personal website.)
 
@@ -31,8 +30,8 @@ Here is list of important repositories categoriesd by topic.
 
 - [Insight Pro](https://github.com/alimohebbi/insight_pro) (NLP & Recommender System): Extracts insights about a company
   from their website.
-- [NN Framework](https://github.com/alimohebbi/nn_framework) (Deep Learning) :A basic framework for implementing 
-   neural networks with customizable architectures.
+- [NN Framework](https://github.com/alimohebbi/nn_framework) (Deep Learning) :A basic framework for implementing
+  neural networks with customizable architectures.
 - [Matching Server](https://github.com/alimohebbi/matching-server) (NLP): Scores similarity of GUI events based on their
   semantics.
 - [App Clustring](https://github.com/faridekhalili/Appclustering) (Topic Modeling): Clustering a data set of android
@@ -55,7 +54,7 @@ Here is list of important repositories categoriesd by topic.
 - [Test Reuse Install](https://github.com/alimohebbi/test_reuse_install) (Ansible): Setup a cluster of android emulator
   containers, run experiments and collect data.
 
-<h3 align="left">Languages and Tools used in my GitHub Account</h3>
+<h3 align="left">Languages and Tools Used in This GitHub Account</h3>
 
 <p align="left"> 
       <a href="https://www.java.com" target="_blank">
@@ -94,6 +93,9 @@ Here is list of important repositories categoriesd by topic.
       <a href="https://react.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
       </a>
+     <a href="https://www.selenium.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenuim   " width="40" height="40" />
+      </a>
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
       </a>
@@ -106,13 +108,13 @@ Here is list of important repositories categoriesd by topic.
       <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" />
       </a>
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="      https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+      </a>
       <a href="https://www.tensorflow.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tenserflow" width="40" height="40" />
       </a>
-      <a href="https://www.selenium.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenuim   " width="40" height="40" />
-      </a>
-      <a href=https://www.mongodb.com/" target="_blank">
+       <a href=https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo   " width="40" height="40" />
       </a>
       <a href="https://www.sqlite.org/" target="_blank">
@@ -120,5 +122,11 @@ Here is list of important repositories categoriesd by topic.
       </a>
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40" />
+      </a>
+      <a href="https://docs.pytest.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40" />
+      </a>
+      <a href="https://docs.pytest.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="pytest" width="40" height="40" />
       </a>
 </p>
