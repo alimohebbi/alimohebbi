@@ -109,7 +109,7 @@ Here is list of important repositories categoriesd by topic.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" />
       </a>
       <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="      https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
       </a>
       <a href="https://www.tensorflow.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tenserflow" width="40" height="40" />
