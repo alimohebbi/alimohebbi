@@ -28,8 +28,8 @@ Here is list of important repositories categoriesd by topic.
 
 - [Insight Pro](https://github.com/alimohebbi/insight_pro) (NLP & Recommender System): Extracts insights about a company
   from their website.
-- [NN Framework](https://github.com/alimohebbi/nn_framework) (a basic machine learning framework for implementing and
-  training neural networks with customizable architectures.
+- [NN Framework](https://github.com/alimohebbi/nn_framework) (Deep Learning) :A basic framework for implementing 
+   neural networks with customizable architectures.
 - [Matching Server](https://github.com/alimohebbi/matching-server) (NLP): Scores similarity of GUI events based on their
   semantics.
 - [App Clustring](https://github.com/faridekhalili/Appclustering) (Topic Modeling): Clustering a data set of android
