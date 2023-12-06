@@ -1,26 +1,29 @@
 ## Table of Content
 
-I am Ali Mohebbi, passionate about software engineering. This markdown overviews projects available in my GitHub account
+I am Ali Mohebbi, passionate about software engineering. This page overviews projects available in my GitHub account
 .
 Here is list of important repositories categoriesd by topic.
 
-### Backend & Frontend
-
-- [Insight Pro](https://github.com/alimohebbi/insight_pro) (Django & Django Templates): Extracts insights about a
-  company from their website.
-- [Gym Planner](https://github.com/alimohebbi/trainig) (Django & Django Templates): A lightweight web application to
-  create training plans.
 
 ### Backend
 
 - [Note Taking](https://github.com/alimohebbi/note_taking) (Django): A scalable REST API backend for a note
   taking system.
+- [Insight Pro](https://github.com/alimohebbi/insight_pro) (Django): Extracts insights about a
+  company from their website.
 - [STAR Lab Server](https://github.com/alimohebbi/starlab-server) (Django): A REST API backend for STAR research group.
+- [Gym Planner](https://github.com/alimohebbi/trainig) (Django): A lightweight web application to
+  create training plans.
 
 ### Frontend
 
 - [STAR Lab UI](https://github.com/alimohebbi/starlab-ui) (Angular): Fronend for STAR research group.
-- [Portfolio](https://github.com/alimohebbi/portfolio) (React): Final project of Advanced React course.
+- [Insight Pro](https://github.com/alimohebbi/insight_pro) (Django Templates): Extracts insights about a
+  company from their website.
+- [Portfolio](https://github.com/alimohebbi/portfolio) (React): An Advanced React portfolio featuring bio, projects, and a contact form.
+- [Gym Planner](https://github.com/alimohebbi/trainig) (Django Templates): A lightweight web application to
+  create training plans.
+
 
 [//]: # (- [pezzem]&#40;https://github.com/alimohebbi/pezzem_page&#41; &#40;Bootstrap&#41;: Academic personal website.)
 
