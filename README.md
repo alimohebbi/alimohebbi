@@ -44,7 +44,7 @@ Here is list of important repositories categoriesd by topic.
 - [Test Reuse Study](https://github.com/alimohebbi/test-reuse-study) (Panda): Execute experimental procedures for the
   research study focused on Test Reuse.
 - [Smentic Matching](https://github.com/alimohebbi/semantic_matching) (Panda): Execute experimental procedures for the
-  research study focused on Semantic Matching study and generate insights and plots.
+  research study focused on Semantic Matching and generates insights and plots.
 
 ### Coud Technologies
 
